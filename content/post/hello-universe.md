@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2022-02-28T18:30:00Z
-draft = true
 excerpt = "From another dimension"
 hero = ""
 title = "Hello Universe"
