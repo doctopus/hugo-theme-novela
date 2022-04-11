@@ -2,7 +2,7 @@
 authors = []
 date = 2022-02-28T18:30:00Z
 excerpt = "From another dimension"
-hero = "/static/images/flower-graph.jpg"
+hero = ""
 title = "Hello Universe"
 
 +++
