@@ -2,7 +2,7 @@
 authors = []
 date = 2022-02-28T18:30:00Z
 excerpt = "From another dimension"
-hero = "/static/images/dennis-kummer-52geprmkp7m-unsplash.jpg"
+hero = "/static/images/hero-5.jpg"
 title = "Hello Universe"
 
 +++
