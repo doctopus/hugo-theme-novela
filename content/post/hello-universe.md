@@ -2,7 +2,7 @@
 authors = []
 date = 2022-02-28T18:30:00Z
 excerpt = "From another dimension"
-hero = "/static/images/dennis-kummer-52geprmkp7m-unsplash.jpg"
+hero = "https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/v1650603805/samples/ecommerce/leather-bag-gray.jpg"
 title = "Hello Universe"
 
 +++
